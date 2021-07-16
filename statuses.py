@@ -10,8 +10,7 @@ STATUSES = (
    "You get a hug! And you get a hug! And you get a hug! Everyone gets a hug!!!",
    "A hug is worth a thousand words!",
    "Did you know?\n\nStudies have shown that a hug a day can reduce stress, improve immune system function, lower your risk of heart disease, and ease depression!\n\nHug someone today!",
-   # Should probably keep this commented until #coronavirus is over
-   # "A hug a day keeps the doctor away.",
+   "A hug a day keeps the doctor away.",
    "Need a hug?",
    "Make hugs, not war!",
    "1. Give hugs.\n2. ...\n3. Profit?\n\n\n(Kidding of course! The hugs ARE the profit!)",
@@ -24,8 +23,6 @@ STATUSES = (
    "🌹Roses are red\n💙Violets are blue\n🏠Tag a friend with this hug\n🤗So they'll feel hugged too!",
    "#SocialDistancing doesn't mean we need to be socially isolated! Send a virtual hug to someone today!",
    "Missing that physical touch? Here's a virtual hug!",
-   "Coronavirus is a bitch! Stay inside; send virtual hugs instead!",
-   "🌹Roses are red\n💙Violets are blue\n🏠#StayTheFHome\n🤗'Til next time, a hug for you",
    "With talk about vaccines in the air, does that mean we can soon have in-person hugs???",
    "Here's a small hug the size of a large hug!",
    "I love hugs!\n\nSend tweet!",
@@ -33,5 +30,7 @@ STATUSES = (
    "Hugs are great!\n\n\n\n\n\n\nⓘ Official sources all agree this is the case",
    "I'm a:\n⚪️ Man\n⚪️ Woman\n🔘 Twitter Bot\n\nLooking for a:\n⚪️ Man\n⚪️ Woman\n🔘 Hug!",
    "The snuggle is real... 🤗",
-   "Don't forget to wear your mask! It's like a hug for your face 😷\n\nAnd while you're here, have a virtual hug 🤗"
+   "Don't forget to wear your mask! It's like a hug for your face 😷\n\nAnd while you're here, have a virtual hug 🤗",
+   "Do you need a hug?\n\nYes          Yes             Yes\n 👇           👇             👇",
+   "My \"Free Hugs!\" t-shirt is raising a lot of questions already answered by my \"Free Hugs!\" t-shirt.",
 )
